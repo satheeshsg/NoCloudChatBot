@@ -6,3 +6,5 @@ requests
 streamlit
 numpy
 faiss-cpu
+langchain
+langchain_community
