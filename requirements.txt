@@ -8,3 +8,4 @@ numpy
 faiss-cpu
 langchain
 langchain_community
+langchain_openai==0.0.8
