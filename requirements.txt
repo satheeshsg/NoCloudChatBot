@@ -1,10 +1,7 @@
 openai
 PyMuPDF
-pydantic==1.8.2  # Example of specifying a version, adjust based on your needs
-PyPDF2
 python-dotenv
-requests  # Ensure lowercase
+PyPDF2
+requests
 streamlit
-faiss-cpu==1.7.1.post2  # Specifying version for consistency
 numpy
-# langchain-openai  # Uncomment and specify version/source if available
