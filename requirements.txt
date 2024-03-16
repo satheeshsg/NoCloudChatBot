@@ -1,0 +1,17 @@
+openai
+tiktoken
+PyMuPDF 
+fitz
+langchain
+langchain_community
+pinecone-client
+PyPDF2
+python-dotenv
+Requests
+streamlit
+
+streamlit
+faiss-cpu  # Use faiss-gpu if you are working with NVIDIA GPUs and need GPU support
+numpy
+PyMuPDF  # This is the package name for fitz
+langchain-openai  # This package might not be directly available via pip without additional setup or might require installation from a GitHub repository or similar
