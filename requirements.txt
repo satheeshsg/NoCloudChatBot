@@ -1,17 +1,10 @@
 openai
-tiktoken
-PyMuPDF 
-fitz
-langchain
-langchain_community
-pinecone-client
+PyMuPDF
+pydantic==1.8.2  # Example of specifying a version, adjust based on your needs
 PyPDF2
 python-dotenv
-Requests
+requests  # Ensure lowercase
 streamlit
-
-streamlit
-faiss-cpu  # Use faiss-gpu if you are working with NVIDIA GPUs and need GPU support
+faiss-cpu==1.7.1.post2  # Specifying version for consistency
 numpy
-PyMuPDF  # This is the package name for fitz
-langchain-openai  # This package might not be directly available via pip without additional setup or might require installation from a GitHub repository or similar
+# langchain-openai  # Uncomment and specify version/source if available
